@@ -119,6 +119,29 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Test Page",
+      "description": "this is just a test page for my self alone",
+      "swatch": [
+        "#643434",
+        "#5383cf",
+        "#bfb123"
+      ],
+      "projects": [
+        {
+          "image": "images/uploads/pride-of-london-s-.jpg",
+          "alt": "Chelsea",
+          "category": "Football club",
+          "title": "Chelsea Football club",
+          "description": "this is nothing serious tho just trying new stuff",
+          "tags": [
+            "Blue",
+            "Football",
+            "Premier league"
+          ]
+        }
+      ]
     }
   ]
 }
