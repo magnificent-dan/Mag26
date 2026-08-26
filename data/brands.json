@@ -1,6 +1,27 @@
 {
   "brands": [
     {
+      "name": "Magnificent",
+      "description": "A minimalist brand identity mark built around a hand-drawn monogram, enclosed within a double circular frame and accented with a trail of scattered dots for a distinctive, artistic finish.",
+      "swatch": [
+        "#15161C",
+        "#ffffff"
+      ],
+      "projects": [
+        {
+          "image": "images/uploads/logo.jpg",
+          "alt": "Magnificent brand identity monogram logo",
+          "category": "MONOGRAM LOGO",
+          "title": "Magnificent Brand Identity Logo",
+          "description": "A monochrome logo combining an expressive handwritten-style monogram with a clean double-ring circular border. The asymmetrical dotted accents add movement and personality while maintaining a simple, elegant black-and-white aesthetic.",
+          "tags": [
+            "Minimalist Logo",
+            "Brand Identity"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Sixteen Laundry & Dry Cleaning",
       "description": "A blue-on-white visual system for a Lagos laundry and dry-cleaning service, built for consistency across social and print.",
       "swatch": [
@@ -95,27 +116,6 @@
           "tags": [
             "Customer Card",
             "QR / Contact Card"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Magnificent",
-      "description": "A minimalist brand identity mark built around a hand-drawn monogram, enclosed within a double circular frame and accented with a trail of scattered dots for a distinctive, artistic finish.",
-      "swatch": [
-        "#15161C",
-        "#ffffff"
-      ],
-      "projects": [
-        {
-          "image": "images/uploads/logo.jpg",
-          "alt": "Magnificent brand identity monogram logo",
-          "category": "MONOGRAM LOGO",
-          "title": "Magnificent Brand Identity Logo",
-          "description": "A monochrome logo combining an expressive handwritten-style monogram with a clean double-ring circular border. The asymmetrical dotted accents add movement and personality while maintaining a simple, elegant black-and-white aesthetic.",
-          "tags": [
-            "Minimalist Logo",
-            "Brand Identity"
           ]
         }
       ]
