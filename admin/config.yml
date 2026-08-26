@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "images/uploads"
+
+collections:
+  - name: "brands"
+    label: "Brands / Client Work"
+    files:
+      - file: "data/brands.json"
+        label: "Client Work"
+        name: "brands_file"
+        fields:
+          - label: "Brands"
+            name: "brands"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Brand / Client Name", name: "name", widget: "string"}
+              - {label: "Short Description", name: "description", widget: "text"}
+              - label: "Swatch Colors"
+                name: "swatch"
+                widget: "list"
+                field: {label: "Hex Color", name: "color", widget: "color"}
+              - label: "Projects"
+                name: "projects"
+                widget: "list"
+                summary: "{{fields.title}}"
+                fields:
+                  - {label: "Image", name: "image", widget: "image"}
+                  - {label: "Image Alt Text", name: "alt", widget: "string"}
+                  - {label: "Category Label (e.g. SOCIAL DESIGN)", name: "category", widget: "string"}
+                  - {label: "Project Title", name: "title", widget: "string"}
+                  - {label: "Description", name: "description", widget: "text"}
+                  - label: "Tags"
+                    name: "tags"
+                    widget: "list"
+                    field: {label: "Tag", name: "tag", widget: "string"}
