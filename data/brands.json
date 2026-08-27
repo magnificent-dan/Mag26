@@ -119,6 +119,27 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Chelsea",
+      "description": "World Champion Winners",
+      "swatch": [
+        "#0240c9",
+        "#e78202"
+      ],
+      "projects": [
+        {
+          "image": "images/uploads/pride-of-london-s-.jpg",
+          "alt": "Chelsea badge",
+          "category": "Sport Football",
+          "title": "World Champion ",
+          "description": "Chelsea fc is the Fifa 2025 Club world champion after defeating Paris Saint German \nChelsea 3 -0 PSG",
+          "tags": [
+            "Fifa",
+            "Football"
+          ]
+        }
+      ]
     }
   ]
 }
