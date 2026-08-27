@@ -140,6 +140,15 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Amah",
+      "description": "Amah is a fashion retail brand offering affordable male and female wear — polos, t-shirts, round-neck tees, and more.",
+      "swatch": [
+        "#d9a860",
+        "#1c1a17",
+        "#f3e6cf"
+      ]
     }
   ]
 }
