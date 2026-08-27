@@ -1,0 +1,12 @@
+{
+  "eyebrow": "05 — Contact",
+  "heading": "Have a business that needs this?",
+  "subtext": "Tell me a bit about your brand and what's missing — I'll get back to you with how I'd approach it.",
+  "email": "alademomidaniel177@gmail.com",
+  "socials": [
+    {"name": "WhatsApp", "url": "https://wa.me/2348174518007", "icon": "whatsapp", "iconColor": "25D366"},
+    {"name": "Instagram", "url": "https://instagram.com/ayomii_posiii", "icon": "instagram", "iconColor": "E4405F"},
+    {"name": "Facebook", "url": "https://facebook.com/ayomiiposiii", "icon": "facebook", "iconColor": "1877F2"},
+    {"name": "X", "url": "https://x.com/ayomii_posi", "icon": "x", "iconColor": ""}
+  ]
+}
