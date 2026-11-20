@@ -84,6 +84,16 @@
             "Customer Card",
             "QR / Contact Card"
           ]
+        },
+        {
+          "image": "images/uploads/special-4.png",
+          "alt": "Special Menu",
+          "category": "Menu",
+          "title": "Special Menu",
+          "tags": [
+            "Menu ",
+            "Product design"
+          ]
         }
       ]
     },
